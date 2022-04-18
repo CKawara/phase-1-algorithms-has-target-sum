@@ -10,13 +10,13 @@ function hasTargetSum(array, target) {
         return true
       }
     }
-    
   }
   return false
 }
 
 /* 
   Write the Big O time complexity of your function here
+  O(n²) because it is a nested iteration
 */
 
 /* 
